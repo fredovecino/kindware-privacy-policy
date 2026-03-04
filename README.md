@@ -5,8 +5,10 @@
 
 Kindware Studio ("we," "us," or "our") operates the Valor BCV mobile application (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
+**No Financial Data Collection**: Valor BCV does not request, collect, or transmit any financial information, bank details, or personal identifiers. It is a strictly informational tool.
+
 ## 1. Information Collection and Use
-For a better experience while using our Service, we may collect certain information about your device. 
+For a better experience while using our Service, we may collect certain information about your device.  
 
 ### Data Types Collected:
 * **Device Information:** We automatically collect information about the device you use to access the Service, including the **Device Model** and **Android Version**.
